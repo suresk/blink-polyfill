@@ -1,0 +1,24 @@
+{
+  "name": "blink-tag",
+  "version": "1.0.0",
+  "description": "HTML blink tag",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suresk/blink-tag.git"
+  },
+  "keywords": [
+    "blink",
+    "geocities",
+    "angelfire",
+    "tripod"
+  ],
+  "author": "Spencer Uresk <suresk@gmail.com>",
+  "contributors": ["Geoff Berger <geoffberger@gmail.com>"],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suresk/blink-tag/issues"
+  },
+  "homepage": "https://github.com/suresk/blink-tag"
+}
