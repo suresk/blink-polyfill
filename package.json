@@ -6,7 +6,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/suresk/blink-tag.git"
+    "url": "https://github.com/suresk/blink-polyfill.git"
   },
   "keywords": [
     "blink",
@@ -18,7 +18,7 @@
   "contributors": ["Geoff Berger <geoffberger@gmail.com>"],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/suresk/blink-tag/issues"
+    "url": "https://github.com/suresk/blink-polyfill/issues"
   },
-  "homepage": "https://github.com/suresk/blink-tag"
+  "homepage": "https://github.com/suresk/blink-polyfill"
 }
